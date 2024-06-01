@@ -42,7 +42,7 @@ const About = () => {
     if (!isLoading && !isError && blogData?.length > 0) content =
         <>
             {
-                blogData  blogData?.map((item, id) => (
+                blogData && blogData?.map((item, id) => (
                     <div className="col-lg-3 col-md-6" key={id + item.id}>
                         <div className="card shadow border-0 mb-5 mb-lg-0">
                             <img src={item?.img} alt="blog Image" width={300} height={200} className="w-100  rounded-top image-hover" style={{ objectFit: 'contain' }} />
