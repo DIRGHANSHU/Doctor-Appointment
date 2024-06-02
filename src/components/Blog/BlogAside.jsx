@@ -72,7 +72,7 @@ const BlogAside = ({ setSearchTerm }) => {
             </div>
 
             <div className="mb-4">
-                <h5 className="blog-title">RECEN POSTS</h5>
+                <h5 className="blog-title">RECEN POST</h5>
                 {content}
             </div>
 
