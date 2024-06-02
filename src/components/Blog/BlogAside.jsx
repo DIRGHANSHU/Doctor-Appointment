@@ -61,7 +61,7 @@ const BlogAside = ({ setSearchTerm }) => {
             </div>
 
             <div className="mb-4">
-                <h5 className="blog-title">CATEGORIES</h5>
+                <h5 className="blog-title">CATEGORIES </h5>
                 {
                     categories.map((item, index) => (
                         <div className="my-2 d-flex gap-2 align-items-center categories-title" key={index}>
@@ -72,7 +72,7 @@ const BlogAside = ({ setSearchTerm }) => {
             </div>
 
             <div className="mb-4">
-                <h5 className="blog-title">RECEN POST</h5>
+                <h5 className="blog-title">RECEN POSTs</h5>
                 {content}
             </div>
 
