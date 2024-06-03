@@ -79,7 +79,7 @@ const BookingSuccess = () => {
                         :
                         <div className='rounded p-3 d-flex flex-column justify-content-center align-items-center' style={{ background: "#f8f9fa", marginTop: '8rem', marginBottom: '5rem' }} >
                             <Empty />
-                            <h6 className='p-2 my-3'>You will be redirect to homepage !</h6>
+                            <h6 className='p-2 my-3'>You will be redirect to homepage!</h6>
                         </div>
                 }
             </div>
