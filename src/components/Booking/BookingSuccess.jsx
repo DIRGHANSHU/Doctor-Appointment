@@ -60,7 +60,7 @@ const BookingSuccess = () => {
                                 </div>
                                 <div className='d-flex gap-3 mb-1'>
                                     <FaRegClock style={{ fontSize: '1rem' }} />
-                                    <p>30 Min</p>
+                                    <p>20 Min</p>
                                 </div>
                                 <div className='d-flex gap-3 mb-1'>
                                     <div><FaLocationArrow style={{ fontSize: '1rem' }} /></div>
