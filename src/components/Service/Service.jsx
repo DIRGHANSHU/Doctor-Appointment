@@ -53,7 +53,7 @@ const Service = () => {
               <div className="d-flex align-items-center">
                 <div className='mb-4 section-title text-center'>
                   <h2 className='text-uppercase'>We are pleased to offer you the</h2>
-                  <p className='form-text'>Lorem ipsum dolor sit amet consectetur adipisicing . Id, sed.</p>
+                  <p className='form-text'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, sed.</p>
                   <Link to={'/doctors'} className="btn-get-started scrollto">Get Started</Link>
                 </div>
 
