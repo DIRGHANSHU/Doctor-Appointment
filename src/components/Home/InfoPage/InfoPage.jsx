@@ -29,7 +29,7 @@ const InfoPage = () => {
                                         <FaHouseUser className="icon"/>
                                         <h4>Appointment</h4>
                                         <small className='text-secondary'>24 Hours Service</small>
-                                        <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                                        <p>Consequuntur sunt aut quasi enim  quae harum pariatur laboris nisi ut aliquip</p>
                                     </div>
                                 </div>
                                 <div className="col-xl-4 d-flex align-items-stretch">
