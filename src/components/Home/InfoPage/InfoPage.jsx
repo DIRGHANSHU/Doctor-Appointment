@@ -14,7 +14,7 @@ const InfoPage = () => {
                             <h3>Why Choose Us?</h3>
                             <p>
                                 Lorem ipsum  sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-                                Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
+                                Asperiores dolores sed et. Tenetur  eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
                             </p>
                             <div className="text-center">
                                 <Link href="/" className="more-btn">Learn More <i className="bx bx-chevron-right"></i></Link>
