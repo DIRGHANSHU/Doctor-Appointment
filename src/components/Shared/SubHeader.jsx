@@ -24,7 +24,7 @@ const SubHeader = ({title, subtitle}) => {
     };
 
     return (
-        <section style={sectionStyle} ="about-us">
+        <section style={sectionStyle} className="about-us">
             <div style={overlayStyle} className="overlay"></div>
             <div className="container position-relative">
                 <div className="row">
