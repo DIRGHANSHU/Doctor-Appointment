@@ -32,7 +32,7 @@ const Service = () => {
                   <img src={img} alt="" className="img-fluid" style={{ maxHeight: '17rem', objectFit: 'cover' }} />
                   <div className="p-2">
                     <h4 className="mt-4 mb-2">Child care</h4>
-                    <p className="mb-4">Saepe  praesentium eaque omnis perferendis a doloremque.</p>
+                    <p className="mb-4">Saepe  praesentium  omnis perferendis a doloremque.</p>
                   </div>
                 </div>
               </div>
