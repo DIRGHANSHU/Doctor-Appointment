@@ -34,7 +34,7 @@ const BlogDetails = () => {
                             <span className="form-text">{data?.user?.firstName + ' ' + data?.user?.lastName}</span>
                         </div>
                         <div className="d-flex gap-1 text-muted align-items-center justify-content-center">
-                            <FaBusinessTime className='form-text' />
+                            <FaBusinessTime classNameform-text' />
                             <span className="form-text">{moment(data?.cretedAt).format('LL')}</span>
                         </div>
                     </div>
